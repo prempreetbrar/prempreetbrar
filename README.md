@@ -3,7 +3,7 @@
 
 #### Currently I am...
 
-🏢 A Software Developer Intern @ Arcurve
+🏢 A Software Engineer Intern @ Binance
 
 🧑🏽‍💻 A Computer Science student at the University of Calgary
 
@@ -14,8 +14,6 @@
 ---
 
 Past Experiences:
-
-🏢 Software Engineer Intern @ Binance - Summer 2023
 
 🏢 Software Developer Intern @ Arcurve - Summer/Fall 2022
 
