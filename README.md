@@ -14,6 +14,7 @@
 Past Experiences:
 
 💸 Software Engineer, Intern @ Binance
+
 🏢 Software Developer, Intern @ Arcurve - Summer/Fall 2022
 
 ---
