@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### Currently I am...
+#### Currently I am a...
 
-<img src="https://github.com/user-attachments/assets/fa99a110-016a-44ae-925c-bcbaab726aae" alt="Roblox_Tilt_Black" style="width:20px; vertical-align: sub;"> &nbsp; &nbsp;A Software Engineer @ Roblox 
+<img src="https://github.com/user-attachments/assets/fa99a110-016a-44ae-925c-bcbaab726aae" alt="Roblox_Tilt_Black" style="width:20px; vertical-align: sub;"> &nbsp; &nbsp; Software Engineer @ Roblox 
 
 ---
 Past Experiences:
